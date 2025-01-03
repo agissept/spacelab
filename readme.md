@@ -4,14 +4,19 @@ Personal lab to make [starhship.rs](https://starship.rs) more fun for my self.
 
 
 ## Preview
+![Peek 2025-01-03 10-25](https://github.com/user-attachments/assets/fa8332be-505a-4a0c-b587-1224694c442c)
 
 ## Feature
 ### Play poker hand
+![Peek 2025-01-03 10-22](https://github.com/user-attachments/assets/bdf1647d-8c13-416a-b0b5-179c2d6b5dec)
+
 ### Now playing on Spotify
+![2025-01-03_10-24](https://github.com/user-attachments/assets/b20f89b7-3685-4e15-be6f-a2700a4cd97d)
+
 
 ## Example usage
-```
-starship.toml
+```toml
+# starship.toml
 
 format = "${custom.poker}${custom.spotify}"
 
