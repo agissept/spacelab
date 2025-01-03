@@ -1,6 +1,6 @@
 # Spacelab
 
-Personal lab to make [starhship.rs](https://starship.rs) more fun for my self.
+Personal lab to make [starship.rs](https://starship.rs) more fun for my self.
 
 
 ## Preview
