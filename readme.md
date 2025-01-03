@@ -13,7 +13,7 @@ Personal lab to make [starship.rs](https://starship.rs) more fun for my self.
 ### Now playing on Spotify
 ![2025-01-03_10-24](https://github.com/user-attachments/assets/b20f89b7-3685-4e15-be6f-a2700a4cd97d)
 
-## Instalation
+## Installation
 ```bash
 git clone https://github.com/agissept/spacelab.git
 cd spacelab
